@@ -1,6 +1,19 @@
 西科智造生产管理软件开发需求0717 ：
 								*部分功能可能在原型确认时做改动
-								
+
+
+目前完整的生产流程：
+
+		1、 https://github.com/0x01ok/semga_document/blob/main/produce/1.jpg
+		
+		2、 https://github.com/0x01ok/semga_document/blob/main/produce/2.jpg		
+
+		3、 https://github.com/0x01ok/semga_document/blob/main/produce/3.jpg
+
+		4、 https://github.com/0x01ok/semga_document/blob/main/produce/4.jpg
+
+		期初生产环节与检验工具可按照以上生产流程进行初始化。
+
 
 1、客户订单上传系统，采用BS结构，客户通过浏览器上传患者信息:
 
